@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Editors",
+    "link": "editors",
+    "icon": "code_blocks"
+  },
+  {
+    "id": 1,
+    "name": "Static websites",
+    "link": "static-websites",
+    "icon": "dashboard"
+  },
+  {
+    "id": 2,
+    "name": "Dynamic websites",
+    "link": "dynamic-websites",
+    "icon": "component_exchange"
+  }
+]
